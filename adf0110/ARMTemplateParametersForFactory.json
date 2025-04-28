@@ -11,6 +11,12 @@
 		"BlobStorageProducts_connectionString": {
 			"value": ""
 		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"BlobStorageCustomer_connectionString": {
+			"value": ""
+		},
 		"AdvWorksDb_properties_typeProperties_server": {
 			"value": "server-at01.database.windows.net"
 		},
@@ -18,6 +24,15 @@
 			"value": "sql01"
 		},
 		"AdvWorksDb_properties_typeProperties_userName": {
+			"value": "atul"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "server-at01.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "sql01"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
 			"value": "atul"
 		}
 	}
