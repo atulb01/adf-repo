@@ -4,6 +4,21 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf0110"
+		},
+		"AdvWorksDb_password": {
+			"value": ""
+		},
+		"BlobStorageProducts_connectionString": {
+			"value": ""
+		},
+		"AdvWorksDb_properties_typeProperties_server": {
+			"value": "server-at01.database.windows.net"
+		},
+		"AdvWorksDb_properties_typeProperties_database": {
+			"value": "sql01"
+		},
+		"AdvWorksDb_properties_typeProperties_userName": {
+			"value": "atul"
 		}
 	}
 }
