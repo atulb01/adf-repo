@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adf0110"
 		},
+		"ADLSTripData_accountKey": {
+			"value": ""
+		},
 		"AdvWorksDb_password": {
 			"value": ""
 		},
@@ -16,6 +19,21 @@
 		},
 		"BlobStorageProducts_connectionString": {
 			"value": ""
+		},
+		"TaxiTripDB_password": {
+			"value": ""
+		},
+		"TaxiTripData_password": {
+			"value": ""
+		},
+		"TripDataDB_password": {
+			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"ADLSTripData_properties_typeProperties_url": {
+			"value": "https://tripdata0110.dfs.core.windows.net/"
 		},
 		"AdvWorksDb_properties_typeProperties_server": {
 			"value": "server-at01.database.windows.net"
@@ -33,6 +51,33 @@
 			"value": "sql01"
 		},
 		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "atul"
+		},
+		"TaxiTripDB_properties_typeProperties_server": {
+			"value": "server-at01.database.windows.net"
+		},
+		"TaxiTripDB_properties_typeProperties_database": {
+			"value": "taxi-data"
+		},
+		"TaxiTripDB_properties_typeProperties_userName": {
+			"value": "atul"
+		},
+		"TaxiTripData_properties_typeProperties_server": {
+			"value": "server-at01.database.windows.net"
+		},
+		"TaxiTripData_properties_typeProperties_database": {
+			"value": "taxi-data"
+		},
+		"TaxiTripData_properties_typeProperties_userName": {
+			"value": "atul"
+		},
+		"TripDataDB_properties_typeProperties_server": {
+			"value": "server-at01.database.windows.net"
+		},
+		"TripDataDB_properties_typeProperties_database": {
+			"value": "taxi-data"
+		},
+		"TripDataDB_properties_typeProperties_userName": {
 			"value": "atul"
 		},
 		"containerUri": {
